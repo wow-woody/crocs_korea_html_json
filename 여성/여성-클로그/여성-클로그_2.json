@@ -1,0 +1,56 @@
+[
+    {
+        "번호": 1,
+        "상품 ID": "211982",
+        "상품명": "크록밴드 리플렉티브 클로그",
+        "색상": [],
+        "가격": "₩79,900",
+        "할인가 할인율": "",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "",
+        "리뷰수": "",
+        "카테고리": "신상품",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211982_001_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211982_001_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 2,
+        "상품 ID": "210343",
+        "상품명": "산리오캐릭터즈 (시나모롤)클래식 클로그",
+        "색상": [],
+        "가격": "₩89,900",
+        "할인가 할인율": "",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "",
+        "리뷰수": "3",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/210343_90H_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/210343_90H_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 3,
+        "상품 ID": "211540",
+        "상품명": "클래식 진주 레이스 플랫폼 클로그",
+        "색상": [],
+        "가격": "",
+        "할인가 할인율": "₩49,900\r\n                                                    (54%)",
+        "할인~": "",
+        "할인가-2": "₩49,900",
+        "할인 전 원가": "₩109,000",
+        "별점 이미지": "",
+        "리뷰수": "",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211540_0HZ_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211540_0HZ_ALT110/crocs"
+        ]
+    }
+]

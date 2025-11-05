@@ -1,0 +1,364 @@
+[
+    {
+        "번호": 1,
+        "상품 ID": "10001",
+        "상품명": "클래식 클로그",
+        "색상": [
+            "rgb(0, 0, 0)",
+            "rgb(76, 76, 76)",
+            "rgb(221, 223, 222)",
+            "rgb(249, 249, 249)",
+            "rgb(219, 214, 198)",
+            "rgb(168, 144, 118)",
+            "rgb(184, 104, 68)",
+            "rgb(117, 49, 30)",
+            "rgb(191, 51, 100)",
+            "rgb(122, 72, 79)",
+            "rgb(32, 82, 73)",
+            "rgb(10, 116, 73)",
+            "rgb(133, 149, 124)",
+            "rgb(175, 179, 174)",
+            "rgb(170, 184, 203)",
+            "rgb(36, 45, 54)",
+            "rgb(202, 218, 242)",
+            "rgb(180, 165, 192)",
+            "rgb(211, 169, 185)",
+            "rgb(219, 166, 138)",
+            "rgb(5, 178, 236)",
+            "rgb(179, 163, 155)",
+            "rgb(225, 180, 215)",
+            "rgb(220, 43, 43)"
+        ],
+        "가격": "₩69,900",
+        "할인가 할인율": "₩39,900",
+        "할인~": "~",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(160)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/10001_6ZW_ALT100/crocs-classic-clog-side-view",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/10001_6ZW_ALT110/crocs-classic-clog-pair"
+        ]
+    },
+    {
+        "번호": 2,
+        "상품 ID": "206633",
+        "상품명": "바야 라인드 퍼즈 스트랩 클로그",
+        "색상": [
+            "linear-gradient(-45deg, rgb(249, 249, 249) 50%, rgb(180, 165, 192) 50%)",
+            "linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 50%)",
+            "rgb(249, 249, 249)",
+            "rgb(191, 203, 215)",
+            "rgb(248, 238, 237)"
+        ],
+        "가격": "",
+        "할인가 할인율": "₩55,900 (41%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩94,900",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(225)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/206633_577_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/206633_577_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 3,
+        "상품 ID": "211354",
+        "상품명": "클래식 크래프티드 클로그",
+        "색상": [
+            "rgb(66, 65, 71)",
+            "rgb(230, 229, 198)",
+            "rgb(151, 134, 90)",
+            "rgb(150, 115, 89)",
+            "rgb(230, 202, 193)"
+        ],
+        "가격": "₩79,900",
+        "할인가 할인율": "₩49,900",
+        "할인~": "~",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(40)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211354_160_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211354_160_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 4,
+        "상품 ID": "211596",
+        "상품명": "클래식 스터드 클로그",
+        "색상": [
+            "rgb(0, 0, 0)",
+            "rgb(151, 143, 123)"
+        ],
+        "가격": "",
+        "할인가 할인율": "₩44,900 (47%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩84,900",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211596_001_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211596_001_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 5,
+        "상품 ID": "211281",
+        "상품명": "클래식 레트로 스포츠 클로그",
+        "색상": [
+            "rgb(0, 0, 0)",
+            "rgb(116, 121, 78)",
+            "rgb(249, 249, 249)",
+            "rgb(107, 107, 105)"
+        ],
+        "가격": "",
+        "할인가 할인율": "₩32,900",
+        "할인~": "~",
+        "할인가-2": "₩54,900",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(22)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211281_001_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211281_001_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 6,
+        "상품 ID": "207261",
+        "상품명": "베이 글리터 클로그",
+        "색상": [],
+        "가격": "",
+        "할인가 할인율": "₩54,900 (47%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩104,000",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(41)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/207261_3YF_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/207261_3YF_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 7,
+        "상품 ID": "211626",
+        "상품명": "베이 스터드 클로그",
+        "색상": [],
+        "가격": "",
+        "할인가 할인율": "₩69,900 (46%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩129,000",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(11)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211626_001_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211626_001_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 8,
+        "상품 ID": "210846",
+        "상품명": "클래식 블리첸 IV 클로그",
+        "색상": [
+            "linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 50%)",
+            "rgb(180, 173, 163)",
+            "rgb(167, 185, 161)",
+            "rgb(179, 163, 155)",
+            "rgb(250, 213, 220)"
+        ],
+        "가격": "",
+        "할인가 할인율": "₩49,900 (44%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩89,900",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(6)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/210846_6UR_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/210846_6UR_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 9,
+        "상품 ID": "205089",
+        "상품명": "바야밴드 클로그",
+        "색상": [
+            "linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(249, 249, 249) 50%)",
+            "linear-gradient(-45deg, rgb(249, 249, 249) 50%, rgb(36, 45, 54) 50%)",
+            "linear-gradient(-45deg, rgb(249, 249, 249) 50%, rgb(0, 0, 0) 50%)",
+            "linear-gradient(-45deg, rgb(36, 45, 54) 50%, rgb(177, 38, 43) 50%)",
+            "linear-gradient(-45deg, rgb(224, 195, 199) 50%, rgb(232, 66, 88) 50%)",
+            "rgb(138, 49, 100)",
+            "rgb(180, 169, 135)",
+            "rgb(191, 203, 215)"
+        ],
+        "가격": "",
+        "할인가 할인율": "₩29,900",
+        "할인~": "~",
+        "할인가-2": "₩42,900",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(1747)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/205089_066_ALT100/crocs-bayaband-clogs-side-view",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/205089_066_ALT110/crocs-bayaband-clogs-pair"
+        ]
+    },
+    {
+        "번호": 10,
+        "상품 ID": "205969",
+        "상품명": "바야 라인드 클로그",
+        "색상": [
+            "linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 50%)",
+            "linear-gradient(-45deg, rgb(249, 249, 249) 50%, rgb(134, 145, 129) 50%)",
+            "linear-gradient(-45deg, rgb(151, 134, 90) 50%, rgb(0, 0, 0) 50%)",
+            "linear-gradient(-45deg, rgb(116, 121, 78) 50%, rgb(0, 0, 0) 50%)",
+            "rgb(73, 78, 74)",
+            "rgb(26, 24, 21)",
+            "rgb(224, 195, 199)"
+        ],
+        "가격": "",
+        "할인가 할인율": "₩46,900 (45%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩84,900",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(392)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/205969_11H_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/205969_11H_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 11,
+        "상품 ID": "206750",
+        "상품명": "클래식 플랫폼 클로그 우먼",
+        "색상": [
+            "rgb(219, 214, 198)",
+            "rgb(0, 0, 0)",
+            "rgb(249, 249, 249)",
+            "rgb(179, 163, 155)",
+            "rgb(230, 202, 193)"
+        ],
+        "가격": "₩79,900",
+        "할인가 할인율": "₩49,900",
+        "할인~": "~",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(426)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/206750_100_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/206750_100_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 12,
+        "상품 ID": "211116",
+        "상품명": "클래식 언퍼게터블 클로그",
+        "색상": [
+            "rgb(0, 0, 0)",
+            "rgb(147, 134, 102)",
+            "rgb(179, 163, 155)",
+            "rgb(150, 115, 89)"
+        ],
+        "가격": "₩84,900",
+        "할인가 할인율": "",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(9)",
+        "카테고리": "신상품",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211116_195_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211116_195_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 13,
+        "상품 ID": "211122",
+        "상품명": "마리메꼬 클래식 클로그",
+        "색상": [],
+        "가격": "",
+        "할인가 할인율": "₩69,900 (30%)",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "₩99,900",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(1)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211122_90H_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211122_90H_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 14,
+        "상품 ID": "211753",
+        "상품명": "베이 라인드 클로그",
+        "색상": [
+            "rgb(0, 0, 0)",
+            "rgb(230, 229, 198)",
+            "rgb(164, 191, 200)",
+            "rgb(105, 93, 117)",
+            "rgb(179, 163, 155)"
+        ],
+        "가격": "₩109,000",
+        "할인가 할인율": "",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(2)",
+        "카테고리": "신상품",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211753_160_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211753_160_ALT110/crocs"
+        ]
+    },
+    {
+        "번호": 15,
+        "상품 ID": "211396",
+        "상품명": "클래식 플리스 라인드 클로그(플리스 스트랩)",
+        "색상": [
+            "rgb(0, 0, 0)",
+            "rgb(147, 134, 102)",
+            "rgb(150, 105, 74)",
+            "rgb(179, 163, 155)",
+            "rgb(219, 214, 198)",
+            "rgb(51, 14, 34)"
+        ],
+        "가격": "₩84,900",
+        "할인가 할인율": "",
+        "할인~": "",
+        "할인가-2": "",
+        "할인 전 원가": "",
+        "별점 이미지": "크록스 클래식_v02_2025-11-05(수)/images/icon_start.svg",
+        "리뷰수": "(7)",
+        "카테고리": "",
+        "상품 이미지": [
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211396_195_ALT100/crocs",
+            "https://media.crocs.com/images/t_ok_card/f_auto%2Cq_auto/products/211396_195_ALT110/crocs"
+        ]
+    }
+]
