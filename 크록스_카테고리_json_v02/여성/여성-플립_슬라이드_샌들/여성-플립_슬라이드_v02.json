@@ -1,0 +1,309 @@
+[
+  {
+    "id": "211100",
+    "product": "멜로우 리커버리 우먼 플립",
+    "color": [
+      "background: rgb(0, 0, 0);",
+      "background: rgb(230, 229, 198);"
+    ],
+    "price": "",
+    "price_dc_rate": "19,900 (69%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "64,900",
+    "rating": "./images/icon_start.svg",
+    "review": "53",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/1_멜로우_리커버리_우먼_플립_1.jpg",
+      "./images/1_멜로우_리커버리_우먼_플립_2.jpg"
+    ]
+  },
+  {
+    "id": "205392",
+    "product": "바야밴드 슬라이드",
+    "color": [
+      "background: linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(249, 249, 249) 50%);",
+      "background: linear-gradient(-45deg, rgb(249, 249, 249) 50%, rgb(36, 45, 54) 50%);",
+      "background: linear-gradient(-45deg, rgb(36, 45, 54) 50%, rgb(177, 38, 43) 50%);"
+    ],
+    "price": "",
+    "price_dc_rate": "29,900 (40%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "49,900",
+    "rating": "./images/icon_start.svg",
+    "review": "335",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/2_바야밴드_슬라이드_1.jpg",
+      "./images/2_바야밴드_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "211108",
+    "product": "베이 슬라이드",
+    "color": [
+      "background: rgb(0, 0, 0);",
+      "background: rgb(249, 249, 249);"
+    ],
+    "price": "",
+    "price_dc_rate": "24,900 (64%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "69,900",
+    "rating": "./images/icon_start.svg",
+    "review": "23",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/3_베이_슬라이드_1.jpg",
+      "./images/3_베이_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "211730",
+    "product": "새터데이 슬라이드 우먼",
+    "color": [
+      "background: rgb(0, 0, 0);",
+      "background: rgb(249, 249, 249);",
+      "background: rgb(250, 213, 220);"
+    ],
+    "price": "",
+    "price_dc_rate": "19,900 (50%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "6",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/4_새터데이_슬라이드_우먼_1.jpg",
+      "./images/4_새터데이_슬라이드_우먼_2.jpg"
+    ]
+  },
+  {
+    "id": "208392",
+    "product": "멜로우 리커버리 슬라이드",
+    "color": [
+      "background: rgb(221, 223, 222);",
+      "background: rgb(0, 0, 0);",
+      "background: rgb(219, 214, 198);"
+    ],
+    "price": "",
+    "price_dc_rate": "24,900",
+    "price_~": "~",
+    "price_dc_2": "~37,900",
+    "price_cost": "",
+    "rating": "./images/icon_start.svg",
+    "review": "60",
+    "cate": "여성, 플립, 슬라이드, 온라인한정 ",
+    "product_img": [
+      "./images/5_멜로우_리커버리_슬라이드_1.jpg",
+      "./images/5_멜로우_리커버리_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "209413",
+    "product": "멜로우 럭스 리커버리 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "29,900 (65%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "84,900",
+    "rating": "./images/icon_start.svg",
+    "review": "5",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/6_멜로우_럭스_리커버리_슬라이드_1.jpg",
+      "./images/6_멜로우_럭스_리커버리_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "208215",
+    "product": "바야 II 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "17,900 (55%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "9",
+    "cate": "여성, 플립, 슬라이드, 온라인한정 ",
+    "product_img": [
+      "./images/7_바야_II_슬라이드_1.jpg",
+      "./images/7_바야_II_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "11033",
+    "product": "크록스 크록밴드 플립",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "24,900 (38%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "61",
+    "cate": "여성, 플립, 슬라이드, 온라인한정 ",
+    "product_img": [
+      "./images/8_크록스_크록밴드_플립_1.jpg",
+      "./images/8_크록스_크록밴드_플립_2.jpg"
+    ]
+  },
+  {
+    "id": "211832",
+    "product": "새터데이 마블 슬라이드 우먼",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "26,900 (40%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "44,900",
+    "rating": "./images/icon_start.svg",
+    "review": "",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/9_새터데이_마블_슬라이드_우먼_1.jpg",
+      "./images/9_새터데이_마블_슬라이드_우먼_2.jpg"
+    ]
+  },
+  {
+    "id": "205393",
+    "product": "바야밴드 플립",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "24,900 (45%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "44,900",
+    "rating": "./images/icon_start.svg",
+    "review": "73",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/10_바야밴드_플립_1.jpg",
+      "./images/10_바야밴드_플립_2.jpg"
+    ]
+  },
+  {
+    "id": "211430",
+    "product": "크록스 올 데이 슬라이드 우먼",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "24,900 (38%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "10",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/11_크록스_올_데이_슬라이드_우먼_1.jpg",
+      "./images/11_크록스_올_데이_슬라이드_우먼_2.jpg"
+    ]
+  },
+  {
+    "id": "210788",
+    "product": "겟어웨이 위브 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "19,900 (64%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "54,900",
+    "rating": "./images/icon_start.svg",
+    "review": "52",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/12_겟어웨이_위브_슬라이드_1.jpg",
+      "./images/12_겟어웨이_위브_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "208685",
+    "product": "살레헤 벰버리 X 크록스 폴렉스 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "49,900 (50%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "99,000",
+    "rating": "./images/icon_start.svg",
+    "review": "6",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/13_살레헤_벰버리_X_크록스_폴렉스_슬라이드_1.jpg",
+      "./images/13_살레헤_벰버리_X_크록스_폴렉스_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "209962",
+    "product": "클래식 타올 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "24,900 (69%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "79,900",
+    "rating": "./images/icon_start.svg",
+    "review": "2",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/14_클래식_타올_슬라이드_1.jpg",
+      "./images/14_클래식_타올_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "210108",
+    "product": "케어베어 스톰프 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "69,900 (50%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "139,000",
+    "rating": "./images/icon_start.svg",
+    "review": "1",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/15_케어베어_스톰프_슬라이드_1.jpg",
+      "./images/15_케어베어_스톰프_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "209828",
+    "product": "라인프렌즈 스톰프 슬라이드",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "77,400 (40%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "129,000",
+    "rating": "./images/icon_start.svg",
+    "review": "2",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/16_라인프렌즈_스톰프_슬라이드_1.jpg",
+      "./images/16_라인프렌즈_스톰프_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "210409",
+    "product": "스톰프 스터드 메탈릭 피셔맨 샌들",
+    "color": [],
+    "price": "",
+    "price_dc_rate": "29,900 (75%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "119,000",
+    "rating": "./images/icon_start.svg",
+    "review": "2",
+    "cate": "여성, 플립, 슬라이드 ",
+    "product_img": [
+      "./images/17_스톰프_스터드_메탈릭_피셔맨_샌들_1.jpg",
+      "./images/17_스톰프_스터드_메탈릭_피셔맨_샌들_2.jpg"
+    ]
+  }
+]

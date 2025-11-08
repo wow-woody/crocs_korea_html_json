@@ -1,0 +1,227 @@
+[
+  {
+    "id": "205392",
+    "product": "바야밴드 슬라이드",
+    "color": [
+      "background: linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(249, 249, 249) 50%);",
+      "background: linear-gradient(-45deg, rgb(249, 249, 249) 50%, rgb(36, 45, 54) 50%);",
+      "background: linear-gradient(-45deg, rgb(36, 45, 54) 50%, rgb(177, 38, 43) 50%);"
+    ],
+    "price": "29,900 (40%)",
+    "price_dc_rate": "29,900 (40%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "49,900",
+    "rating": "./images/icon_start.svg",
+    "review": "335",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/1_바야밴드_슬라이드_1.jpg",
+      "./images/1_바야밴드_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "212029",
+    "product": "새터데이 슬라이드 맨",
+    "color": [
+      "background: rgb(249, 249, 249);",
+      "background: rgb(20, 128, 221);"
+    ],
+    "price": "23,900 (40%)",
+    "price_dc_rate": "23,900 (40%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "2",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/2_새터데이_슬라이드_맨_1.jpg"
+    ]
+  },
+  {
+    "id": "211432",
+    "product": "크록스 올 데이 슬라이드 맨",
+    "color": [
+      "background: rgb(0, 0, 0);",
+      "background: rgb(117, 120, 125);"
+    ],
+    "price": "24,900 (38%)",
+    "price_dc_rate": "24,900 (38%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "8",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/3_크록스_올_데이_슬라이드_맨_1.jpg",
+      "./images/3_크록스_올_데이_슬라이드_맨_2.jpg"
+    ]
+  },
+  {
+    "id": "208392",
+    "product": "멜로우 리커버리 슬라이드",
+    "color": [
+      "background: rgb(221, 223, 222);",
+      "background: rgb(0, 0, 0);",
+      "background: rgb(219, 214, 198);"
+    ],
+    "price": "24,900",
+    "price_dc_rate": "24,900",
+    "price_~": "~",
+    "price_dc_2": "",
+    "price_cost": "",
+    "rating": "./images/icon_start.svg",
+    "review": "60",
+    "cate": "남성, 샌들, 온라인 한정",
+    "product_img": [
+      "./images/4_멜로우_리커버리_슬라이드_1.jpg",
+      "./images/4_멜로우_리커버리_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "209413",
+    "product": "멜로우 럭스 리커버리 슬라이드",
+    "color": [],
+    "price": "29,900 (65%)",
+    "price_dc_rate": "29,900 (65%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "84,900",
+    "rating": "./images/icon_start.svg",
+    "review": "5",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/5_멜로우_럭스_리커버리_슬라이드_1.jpg",
+      "./images/5_멜로우_럭스_리커버리_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "208215",
+    "product": "바야 II 슬라이드",
+    "color": [],
+    "price": "17,900 (55%)",
+    "price_dc_rate": "17,900 (55%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "9",
+    "cate": "남성, 샌들, 온라인 한정",
+    "product_img": [
+      "./images/6_바야_II_슬라이드_1.jpg",
+      "./images/6_바야_II_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "211101",
+    "product": "인모션 플립",
+    "color": [
+      "background: rgb(0, 0, 0);",
+      "background: rgb(36, 45, 54);"
+    ],
+    "price": "37,900 (49%)",
+    "price_dc_rate": "37,900 (49%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "74,900",
+    "rating": "./images/icon_start.svg",
+    "review": "35",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/7_인모션_플립_1.jpg",
+      "./images/7_인모션_플립_2.jpg"
+    ]
+  },
+  {
+    "id": "208685",
+    "product": "살레헤 벰버리 X 크록스 폴렉스 슬라이드",
+    "color": [],
+    "price": "49,900 (50%)",
+    "price_dc_rate": "49,900 (50%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "99,000",
+    "rating": "./images/icon_start.svg",
+    "review": "6",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/8_살레헤_벰버리_X_크록스_폴렉스_슬라이드_1.jpg",
+      "./images/8_살레헤_벰버리_X_크록스_폴렉스_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "212333",
+    "product": "바야밴드 스포츠 클로그",
+    "color": [
+      "background: linear-gradient(-45deg, rgb(0, 0, 0) 50%, rgb(249, 249, 249) 50%);",
+      "background: linear-gradient(-45deg, rgb(151, 134, 90) 50%, rgb(230, 229, 198) 50%);",
+      "background: linear-gradient(-45deg, rgb(36, 45, 54) 50%, rgb(134, 145, 129) 50%);",
+      "background: rgb(248, 238, 237);"
+    ],
+    "price": "",
+    "price_dc_rate": "",
+    "price_~": "",
+    "price_dc_2": "74,900",
+    "price_cost": "",
+    "rating": "./images/icon_start.svg",
+    "review": "",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/9_바야밴드_스포츠_클로그_1.jpg",
+      "./images/9_바야밴드_스포츠_클로그_2.jpg"
+    ]
+  },
+  {
+    "id": "209962",
+    "product": "클래식 타올 슬라이드",
+    "color": [],
+    "price": "24,900 (69%)",
+    "price_dc_rate": "24,900 (69%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "79,900",
+    "rating": "./images/icon_start.svg",
+    "review": "2",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/10_클래식_타올_슬라이드_1.jpg",
+      "./images/10_클래식_타올_슬라이드_2.jpg"
+    ]
+  },
+  {
+    "id": "11033",
+    "product": "크록스 크록밴드 플립",
+    "color": [],
+    "price": "24,900 (38%)",
+    "price_dc_rate": "24,900 (38%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "39,900",
+    "rating": "./images/icon_start.svg",
+    "review": "61",
+    "cate": "남성, 샌들, 온라인 한정",
+    "product_img": [
+      "./images/11_크록스_크록밴드_플립_1.jpg",
+      "./images/11_크록스_크록밴드_플립_2.jpg"
+    ]
+  },
+  {
+    "id": "205393",
+    "product": "바야밴드 플립",
+    "color": [],
+    "price": "24,900 (45%)",
+    "price_dc_rate": "24,900 (45%)",
+    "price_~": "",
+    "price_dc_2": "",
+    "price_cost": "44,900",
+    "rating": "./images/icon_start.svg",
+    "review": "73",
+    "cate": "남성, 샌들",
+    "product_img": [
+      "./images/12_바야밴드_플립_1.jpg",
+      "./images/12_바야밴드_플립_2.jpg"
+    ]
+  }
+]
