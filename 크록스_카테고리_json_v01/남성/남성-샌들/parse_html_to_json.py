@@ -9,7 +9,7 @@ def parse_html_to_json(html_file_path, output_file_path):
     
     # BeautifulSoup을 사용하여 HTML 파싱
     soup = BeautifulSoup(html_content, 'html.parser')
-    
+     
     # .ok-card-list 찾기
     card_list = soup.find('ul', class_='ok-card-list')
     if not card_list:

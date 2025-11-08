@@ -12,7 +12,7 @@ print(f"✅ 총 상품 수: {len(data)}")
 print(f"✅ 첫 번째 상품의 모든 필드:")
 for key in data[0].keys():
     print(f"   - {key}")
-
+ 
 print(f"\n✅ 상품 ID 추출 확인 (처음 3개): {[p['상품 ID'] for p in data[:3]]}")
 print(f"✅ 상품명 추출 확인 (처음 3개): {[p['상품명'] for p in data[:3]]}")
 print(f"✅ 리뷰수 추출 확인 (처음 3개): {[p['리뷰수'] for p in data[:3]]}")
